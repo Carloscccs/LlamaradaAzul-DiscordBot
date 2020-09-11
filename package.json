@@ -1,10 +1,10 @@
 {
-  "name": "Llamadaraazul",
-  "version": "1.0.0",
-  "description": "",
+  "name": "llamadaraazul",
+  "version": "0.0.1",
+  "description": "Bot de discord basico desarrollado como medio de pruebas y aprendizaje",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node bot.js"
   },
   "keywords": [],
   "author": "",
