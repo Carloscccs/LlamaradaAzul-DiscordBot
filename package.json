@@ -4,7 +4,7 @@
   "description": "Bot de discord basico desarrollado como medio de pruebas y aprendizaje",
   "main": "index.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node src/bot.js"
   },
   "keywords": [],
   "author": "",
