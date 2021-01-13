@@ -17,6 +17,6 @@
     "marsnpm": "^0.5.1",
     "megadb": "^3.4.0",
     "star-labs": "^1.1.2",
-    "ytdl-core": "^3.4.2"
+    "ytdl-core": "^4.4.3"
   }
 }
